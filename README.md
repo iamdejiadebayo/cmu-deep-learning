@@ -1,8 +1,8 @@
-# Deep Learning Projects — Carnegie Mellon University (11-785)
+# Deep Learning Projects — Carnegie Mellon University
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
-[![CMU](https://img.shields.io/badge/Carnegie_Mellon_University-CC0000?style=for-the-badge&logo=data:image/png;base64,&logoColor=white)]()
+()
 
 A collection of deep learning assignments completed as part of the **Introduction to Deep Learning (11-785)** course at Carnegie Mellon University. Each project covers a core area of modern deep learning — from building neural networks from scratch to sequence modelling and speech recognition — implemented in PyTorch.
 
@@ -59,7 +59,7 @@ This project tackled two tasks: face classification (identifying who a face belo
 This project built an end-to-end automatic speech recognition system using sequence models. The task moved beyond frame-level classification to sequence-level transcription — mapping variable-length audio inputs to variable-length text outputs using CTC (Connectionist Temporal Classification) decoding.
 
 **Key concepts covered:**
-- Recurrent architectures: RNN, LSTM, GRU — understanding vanishing gradients and gating mechanisms
+- Recurrent architectures: RNN, LSTM, LAS, GRU — understanding vanishing gradients and gating mechanisms
 - CTC loss function and beam search decoding for sequence-to-sequence mapping
 - Levenshtein distance as an evaluation metric for transcription quality
 - Handling variable-length sequences with padding and packing
